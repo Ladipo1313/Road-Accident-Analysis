@@ -12,6 +12,8 @@ Loading Data into Power BI: After transforming the data in Power Query, you load
 
 Creating the Dashboard: This is the core of your project. You've mentioned using various charts and DAX queries to create a comprehensive dashboard. Here are some things you might consider:
 
+![](./Road_Accident.jpg)
+
 Time Intelligence: Analyzing accident data over time often involves creating a calendar date table and using time intelligence functions like YTD (Year-to-Date) and YoY (Year-over-Year) calculations.
 
 Data Modeling: Creating relationships between multiple tables is crucial for building meaningful visualizations. Ensure that your data model is well-structured to support your analysis.
