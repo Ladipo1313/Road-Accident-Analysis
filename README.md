@@ -21,9 +21,13 @@ KPIs (Key Performance Indicators): KPIs can help summarize key metrics related t
 Custom Columns and Measures: Creating custom columns and measures in DAX (Data Analysis Expressions) can help you derive specific insights and metrics that are not present in the raw data.
 
 Insights gained from the analysis are:
+
 Total CY Casualties was 195.7K
+
 Total Current Year Accidents was 144.4K
+
 Current Year Fatal Casualties was 2.9K
+
 Current Year Serious Casualties was 27.0K
 
 Import Images: Importing relevant images, such as maps or accident scene photos, can add context and enhance the visual appeal of your dashboard.
